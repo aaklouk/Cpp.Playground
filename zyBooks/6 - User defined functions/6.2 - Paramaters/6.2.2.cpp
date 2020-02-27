@@ -11,7 +11,7 @@ using namespace std;
 
 /* Your solution goes here  */
 int PrintFeetInchShort(int feet, int inch){
-	cout << feet << "' " << inch << "\"";
+	cout << feet << "' " << inch << "\""<< '\n';
 }
 
 
